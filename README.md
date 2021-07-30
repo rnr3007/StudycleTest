@@ -27,3 +27,7 @@ Berikut ini ialah contoh penggunaan untuk memperjelas cara menggunakan
 ![image](https://user-images.githubusercontent.com/68685536/127629196-50d1591f-a24a-424c-8ef8-7f6e2b2d0407.png)
 3. Hasil proses data
 ![image](https://user-images.githubusercontent.com/68685536/127631514-d12b91bd-c958-4722-a2ba-e116d955e738.png)
+
+## Limitasi
+1. Proses ketika memasukkan panjang data dan data yang ingin diproses sulit dibedakan
+2. Hanya ada pilihan untuk keluar dari program ketika hasil output telah ditampilkan
